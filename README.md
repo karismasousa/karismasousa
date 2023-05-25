@@ -1,8 +1,7 @@
 ## Ola, Eu sou a Karisma!
 
-- 🔭 Hoje eu trabalho com Front-end
-- 🌱 Estudando JavaScript
-- 😄 Pronouns: ela/dela
+Sou uma profissional em transição de carreira, com experiência sólida como Compradora e uma paixão crescente pela área de Desenvolvimento de Sistemas. Tenho habilidades analíticas aguçadas e capacidade comprovada de negociar, e estou animada em aplicar essas habilidades em um novo desafio como desenvolvedora. Busco constantemente aprendizado e me esforço para melhorar minhas habilidades técnicas, além de trazer uma abordagem estratégica para o desenvolvimento de software.
+
 <div>
 <a href="https://github.com/karismasousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karismasousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
