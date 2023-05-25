@@ -1,9 +1,10 @@
 # Olá! Sou a Karisma,
+
 <br>
-<p> Uma programadora em transição de carreira dedicada e entusiasmada com o mundo da tecnologia. Minha paixão por resolver problemas e criar soluções inovadoras me impulsionou a buscar uma carreira na área de desenvolvimento de software.</p>
+<p>Uma programadora em transição de carreira dedicada e entusiasmada com o mundo da tecnologia. Minha paixão por resolver problemas e criar soluções inovadoras me impulsionou a buscar uma carreira na área de desenvolvimento de software.</p>
 <p> Ao longo dos anos, adquiri conhecimentos em várias linguagens de programação, como Python, JavaScript e Java, e estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades de programação. Sou uma entusiasta da programação orientada a objetos e estou sempre em busca de desafios que me permitam expandir meus horizontes.</p>
 <br><br>
-
+**Ao longo dos anos, adquiri conhecimentos em várias linguagens de programação, como Python, JavaScript e Java, e estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades de programação. Sou uma entusiasta da programação orientada a objetos e estou sempre em busca de desafios que me permitam expandir meus horizontes.*
 
 <div>
 <a href="https://github.com/karismasousa">
