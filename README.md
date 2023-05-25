@@ -1,8 +1,5 @@
-<h1 align=center> Olá! Sou a Karisma,</h1>
+<h1 align="justify"> Olá! Sou a Karisma,</h1>
 <br>
-
-<img align="right" alt="Karisma-Gif" src="https://i.picasion.com/pic92/ac116223271da7c512d9fac84325b9fa.gif"/>
-
 <br>
 <p align="justify">Uma programadora em transição de carreira dedicada e entusiasmada com o mundo da tecnologia. Minha paixão por resolver problemas e criar soluções inovadoras me impulsionou a buscar uma carreira na área de desenvolvimento de software.</p>
 <p align="justify"> Ao longo dos anos, adquiri conhecimentos em várias linguagens de programação, como Python, JavaScript e Java, e estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades de programação. Sou uma entusiasta da programação orientada a objetos e estou sempre em busca de desafios que me permitam expandir meus horizontes.</p>
@@ -23,7 +20,6 @@
   <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karismasousa&layout=compact&langs_cout=16&theme=dracula"/>
   </a>
 </div>
-
 <br><br>
 <div>
   <a href="https://www.linkedin.com/in/karismaalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
