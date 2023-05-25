@@ -1,6 +1,9 @@
-## Ola, Eu sou a Karisma!
+# Olá! Sou a Karisma,
+<br>
+<p> Uma programadora em transição de carreira dedicada e entusiasmada com o mundo da tecnologia. Minha paixão por resolver problemas e criar soluções inovadoras me impulsionou a buscar uma carreira na área de desenvolvimento de software.</p>
+<p> Ao longo dos anos, adquiri conhecimentos em várias linguagens de programação, como Python, JavaScript e Java, e estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades de programação. Sou uma entusiasta da programação orientada a objetos e estou sempre em busca de desafios que me permitam expandir meus horizontes.</p>
+<br><br>
 
-Sou uma profissional em transição de carreira, com experiência sólida como Compradora e uma paixão crescente pela área de Desenvolvimento de Sistemas. Tenho habilidades analíticas aguçadas e capacidade comprovada de negociar, e estou animada em aplicar essas habilidades em um novo desafio como desenvolvedora. Busco constantemente aprendizado e me esforço para melhorar minhas habilidades técnicas, além de trazer uma abordagem estratégica para o desenvolvimento de software.
 
 <div>
 <a href="https://github.com/karismasousa">
