@@ -23,5 +23,9 @@
   <a href="https://www.linkedin.com/in/karismaalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://discord.com/store" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  
+  ![picasion com_ac116223271da7c512d9fac84325b9fa](https://github.com/karismasousa/karismasousa/assets/106543715/9f1b4fcf-e784-434d-901c-4c024cdb95d4)
+
+  
    </div>  
 
