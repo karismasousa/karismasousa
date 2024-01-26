@@ -1,7 +1,9 @@
 <h1 align="justify"> Olá! Sou a Karisma,</h1>
 <br>
 <br>
-<p align="justify">Uma programadora em transição de carreira dedicada e entusiasmada com o mundo da tecnologia. Minha paixão por resolver problemas e criar soluções inovadoras me impulsionou a buscar uma carreira na área de desenvolvimento de software.</p>
+<p align="justify">Estou atualmente em um processo empolgante de transição de carreira, trazendo uma sólida experiência na área administrativa e nutrindo uma paixão crescente pelo universo do Desenvolvimento Web Frontend. Minhas habilidades analíticas afiadas e minha comprovada capacidade de negociação são elementos-chave que estou ansiosa para aplicar em um novo desafio como desenvolvedora.
+
+Persisto constantemente na busca pelo aprendizado, concentrando-me no aprimoramento técnico e adotando uma abordagem estratégica para o desenvolvimento de software. Minha empolgação e habilidades estão prontas para serem contribuídas à sua equipe.</p>
 <br>
 
 <div>
